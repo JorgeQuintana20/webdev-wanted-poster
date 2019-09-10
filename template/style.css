@@ -1,0 +1,20 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 2px solid black;
+    width: 400px;
+    height: 410px;
+    background: rgb(245, 66, 99);
+}
+img {
+    width: 200px;
+}
+h1{
+    font-family: impact;
+}
+h3 {
+    font-family: impact;
+}
+p {
+    font-family: impact;
+}
